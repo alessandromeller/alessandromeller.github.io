@@ -63,3 +63,8 @@ nav {
 .box30 {
     max-width: 30%;
 }
+/* botões  */
+.botao1 {
+ min-width: 50px;
+ border-radius: 15px;
+}
